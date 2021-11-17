@@ -6,6 +6,9 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+main {
+    display: block;
+}
 article {
     width: 60%;
     background-color: beige;
